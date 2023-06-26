@@ -4,7 +4,7 @@
 
   Growth mindset is a necessary component of progress for me personally. It means being able to overcome adversity and challenges in order to prosper and achieve goals by **facing** difficulty and affirming to myself that it's not impossible and I **_can_** overcome whatever the problem is. There are a few ways I like to remind myself to stay in this growth mindset when things become difficult and I start to feel myself losing focus.
 
-  ![Inspiration] (https://i.pinimg.com/originals/39/16/6e/39166ee335ceb3d5fe9f43906974faf0.jpg)
+  ![Inspiration](https://i.pinimg.com/originals/39/16/6e/39166ee335ceb3d5fe9f43906974faf0.jpg)
 
   1. Being _keenly_ aware of my thoughts and my environment
   2. Finding inspiration
