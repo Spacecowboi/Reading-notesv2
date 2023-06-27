@@ -13,3 +13,5 @@
   My name is Anthony Cunningham. I have been on a long journey of trying to figure out what I want to do with my life and why. Three years ago I came to Code Fellows for the first time and had an amazing journey, and haven't found an experience quite like it since, so I returned. I have been a soldier, a scientist and technician, and hopefully soon a software engineer.
 
  [The link to my shnazzy profile] (https://github.com/Spacecowboi)
+ 
+[Link to gitflow](https://github.com/Spacecowboi/Reading-notesv2/blob/main/Git.md)
