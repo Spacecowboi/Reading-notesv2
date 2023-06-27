@@ -18,12 +18,12 @@
 
 # Table of Contents
 
-*102
+## 102
   [Link](./102/lesson1.md)
   [Link](./102/lesson2.md)
   [Link](./102/lesson3.md)[Link](./102/lesson4.md)[Link](./102/lesson5.md)[Link](./102/lesson6.md)[Link](./102/lesson7.md)[Link](./102/lesson8.md)
 
-*201
+## 201
   [link](./201/lesson1.md)
   [link](./201/lesson2.md)
   [link](./201/lesson3.md)
