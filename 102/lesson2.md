@@ -1,19 +1,21 @@
-# HTML Notes
+# What are four important features to look for in a text editor?
+* Code Completion
+* Syntax Highlighting
+* A nice variety of themes
+* The ability to choose from a healthy selection of extension available when you need them.
 
-* <h1></h1> <== this is a heading
-<p></p> <== this is for bodies of text
-<div> <==== this is a divider, creates a "box" around whatever content is in the div
-<ol> <===== this is an ordered list
-<li> <===== this is for adding items to the list
-<ul> <===== this is for an unordered list
-<img> <===== this is for inserting images and pictures
-<img src> <==== the "src" stands for source. the computer needs to know where you are getting the image from, so you need to put a location.
-<a href> <==== this is for hyperlinks <a href="google.com">Link Text</a>
+# What do the following commands do?
 
-<html>
-<!-- The head tag is for more meta data -->
-    <head>
-<!-- All elements that are visible should go in the <body> tag -->
-        <title>demo</title>
-<body>
-    <h1>Hello from Index</h1>
+* PWD = Print working directory. Shows you where you're at.
+* ls = list. Shows you an active list of the files and folders in your current directory.
+* cd = change directory.
+* mkdir = make a **NEW** directory
+* touch = make a **NEW** file
+
+# What do these do?
+
+* cd projects = change into the projects folder
+* mkdir new-project = make a new directory titled "new-project"
+* touch new-project/newfile.md = Making a new markdown file
+* cd .. = change into the previous directory
+* ls projects/new-project = list all the files and things related to projects/new-project
