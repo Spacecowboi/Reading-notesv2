@@ -19,9 +19,9 @@
 # Table of Contents
 
 ## 102
-  [Link](./102/lesson1.md)
-  [Link](./102/lesson2.md)
-  [Link](./102/lesson3.md)[Link](./102/lesson4.md)[Link](./102/lesson5.md)[Link](./102/lesson6.md)[Link](./102/lesson7.md)[Link](./102/lesson8.md)
+  [Lesson 1 notes](./102/lesson1.md)
+  [Lesson 2 notes](./102/lesson2.md)
+  [Lesson 3 notes](./102/lesson3.md)[Lesson 4 notes](./102/lesson4.md)[Lesson 5 notes](./102/lesson5.md)[Lesson 6 notes](./102/lesson6.md)[Lesson 7 notes](./102/lesson7.md)[Lesson 8 notes](./102/lesson8.md)
 
 ## 201
   [link](./201/lesson1.md)
