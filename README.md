@@ -1,3 +1,6 @@
+# Reading Notes
+* This site contains all of my reading notes for the Code Fellows curriculum. 
+
 # G R O W T H
 
 ## What does it mean to me?
