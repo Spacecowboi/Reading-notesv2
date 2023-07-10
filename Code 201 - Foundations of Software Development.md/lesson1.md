@@ -68,4 +68,6 @@
     * The **Geolocation API** retreieves geographical information. This is how Google Maps is able to find your location and show you where you are on a map.
 
 2. How can you add JavaScript to an HTML document?
-    * You can creat a separate "app.js" or ".js" file in your code editor and write your code there, then link it to your HTML using a <script> tag, or you can do in-line JS by writing the JS code directly into the HTML.
+    * You can creat a separate "app.js" or ".js" file in your code editor and write your code there, then link it to your HTML using a <script> tag, or you can do in-line JS by writing the JS code directly into the HTML. 
+
+**All answers and content was found within the articles provided for the day's reading**
