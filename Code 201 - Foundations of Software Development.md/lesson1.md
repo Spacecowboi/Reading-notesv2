@@ -53,8 +53,8 @@
 
 # Semantics
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
-    * An <h1> element is semantic, giving the text meaning. The <span> element has no semantic value however, so it doesn't get the benefit of importance that the <h1> has.
+1. Why should you use an h1 element over a span element to display a top level heading?
+    * An h1 element is semantic, giving the text meaning. The span element has no semantic value however, so it doesn't get the benefit of importance that the h1 has.
 
 2. What are the benefits of using semantic tags in our HTML?
     * Search engins consider the content within those tags as immportant keywords, boosting the page's search ranking
