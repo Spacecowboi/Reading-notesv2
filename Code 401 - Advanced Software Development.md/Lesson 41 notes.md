@@ -49,4 +49,3 @@
 3. Why might you choose to eject?
 
 * If you need more control or want to do something that Expo doesn't do. 
-
